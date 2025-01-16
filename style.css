@@ -90,6 +90,25 @@ h1 {
     word-wrap: wrap;
 }
 
-.rot{
+.lg{
     background: linear-gradient(to bottom right, #C1DEE8B2, #FFFFFF00, #FBD9B9B2);
+}
+
+.black{
+    border-radius: 75px !important;
+    height: 2.9rem !important;
+    width: 22%;
+    border: none;
+    color: white;
+    background-color: black;
+    font-family: poppins; 
+}
+
+.white{
+    border-radius: 75px !important;
+    height: 2.9rem !important;
+    width: 22%;
+    border: none;
+    color: black;
+    font-family: poppins; 
 }
